@@ -1,0 +1,44 @@
+@media (max-width: 860px) {
+    html {
+        background-color: white;
+    }
+}
+
+.lang {
+    font-weight:300 !important;
+}
+
+.lang:hover {
+    font-weight:bold !important;
+}
+
+.mynav {
+    text-decoration: none;
+    font-weight:500;
+}
+
+.mynav:hover {
+    font-weight:bold;
+}
+
+.current {
+    font-weight:bold;
+}
+
+body {
+    background: linear-gradient(to right, #57697d, white, white, white, white, white, #57697d);
+}
+
+.main {
+    max-width: 860px; background-color:white;
+}
+
+.mynav-container {
+    display: flex; 
+    justify-content: space-around;
+    gap: 5px;
+    margin-top: 5px; 
+    margin-bottom: 5px; 
+    background-color: #f8f9f9; 
+    line-height: 4rem;
+}

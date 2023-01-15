@@ -1,0 +1,10 @@
+<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Bogoslovska Inna Hermanivna</b><br><img src="/img/result_photo/bogoslovska.jpg" alt="Bogoslovska" border="0">
+<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Yatsenyuk Arseniy Petrovych</b><br><img src="/img/result_photo/yacenuk.jpg" alt="Yatseniuk" border="0">
+<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Tihipko Serhii Leonidovych</b><br><img src="/img/result_photo/tigipko.jpg" alt="Tigipko" border="0">
+<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Yushchenko Viktor Andriyovych</b><br><img src="/img/result_photo/jushenko.jpg" alt="Yushchenko" border="0">
+<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Tymoshenko Yulia Volodymyrivna</b><br><img src="/img/result_photo/timoshenko.jpg" alt="Tymoshenko" border="0">
+<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Yanukovych Viktor Fedorovych</b><br><img src="/img/result_photo/janukovich.jpg" alt="Yanukovych" border="0">
+<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Hrytsenko Anatoly Stepanovych</b><br><img src="/img/result_photo/gricenko.jpg" alt="Hrytsenko" border="0">
+<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Lytvyn Volodymyr Mykhailovych</b><br><img src="/img/result_photo/litvin.jpg" alt="Lytvyn" border="0">
+<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Simonenko Petro Mykolayovych</b><br><img src="/img/result_photo/simonenko.jpg" alt="Symonenko" border="0">
+<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Protivsikh Vasyl Vasyliovych</b><br><img src="/img/result_photo/protivsih.jpg" alt="Protyvsikh"border="0">

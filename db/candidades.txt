@@ -1,0 +1,10 @@
+<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Богословська Інна Германівна</b><br><img src="/img/result_photo/bogoslovska.jpg" alt="Bogoslovska" border="0">
+<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Яценюк Арсеній Петрович</b><br><img src="/img/result_photo/yacenuk.jpg" alt="Yatseniuk" border="0">
+<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Тігіпко Сергій Леонідович</b><br><img src="/img/result_photo/tigipko.jpg" alt="Tigipko" border="0">
+<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Ющенко Віктор Андрійович</b><br><img src="/img/result_photo/jushenko.jpg" alt="Yushchenko" border="0">
+<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Тимошенко Юлія Володимирівна</b><br><img src="/img/result_photo/timoshenko.jpg" alt="Tymoshenko" border="0">
+<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Янукович Віктор Федорович</b><br><img src="/img/result_photo/janukovich.jpg" alt="Yanukovych" border="0">
+<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Гриценко Анатолій Степанович</b><br><img src="/img/result_photo/gricenko.jpg" alt="Hrytsenko" border="0">
+<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Литвин Володимир Михайлович</b><br><img src="/img/result_photo/litvin.jpg" alt="Lytvyn" border="0">
+<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Симоненко Петро Миколайович</b><br><img src="/img/result_photo/simonenko.jpg" alt="Symonenko" border="0">
+<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Противсіх Василь Васильович</b><br><img src="/img/result_photo/protivsih.jpg" alt="Protyvsikh"border="0">
