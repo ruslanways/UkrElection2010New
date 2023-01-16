@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ukraine 2010 President Election</title>
+    <title>Ukraine 2004 President Election</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
@@ -70,15 +70,15 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $question_list = file("db/questions_eng.txt");
         $questions_count = count($question_list);
 
-        $out = '<h5>Ukraine President Election 2010 🇺🇦</h5>';
-        $out .= '<form method="post">';
+        $out = '<h5>Ukraine President Election 2004 🇺🇦</h5>';
+        $out .= '<form method="post" onsubmit="return formValidation()">';
 
         for ($question = 0; $question < $questions_count; $question++) {
                 $one_question = explode("|", trim($question_list[$question]));
                 $out .= "<br><fieldset>";
                 $out .= "<legend style=\"background-color:#d7eaf5\"><span class=\"small\">$one_question[0].</span> <i>$one_question[1]</i></legend>";
                 for ($option = 0; $option < count($one_question) - 2; $option++) {
-                        $out .= '<p><input name="q' . $one_question[0] . '" type="radio" value="' . ($option+1) . '" required >';
+                        $out .= '<p><input name="q' . $one_question[0] . '" type="radio" value="' . ($option+1) . '" >';
                         $out .= "{$one_question[$option + 2]}</p>";
                 }
                 $out .= '</fieldset>';
@@ -88,6 +88,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 echo $out;
 ?>
 </div>
+<script src="script_eng.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
             integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
             crossorigin="anonymous"></script>
